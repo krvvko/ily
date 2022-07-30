@@ -12,6 +12,11 @@ body {
     align-items: center;
     text-align: center;
     color: #cfd4f3;
+    font-size: 3vh;
+}
+
+img {
+    width: 15vh;
 }
 
 .css-selector {
